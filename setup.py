@@ -10,10 +10,10 @@ setup(
     name="morteza_pythonpackage",
     version="1.0.0",
     author="mori_cyber",
-    description="a test package for pydeploy students",
+    description="A test package for pydeploy students",
     long_description=pre_install(),
     requires=[],
     author_email="moridh1355@gmail.com",
-    packages="morteza_pythonpackage",
+    packages=["morteza_pythonpackage"],
     
 )

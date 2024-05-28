@@ -11,5 +11,8 @@ setup(
     author="mori_cyber",
     description="a test package for pydeploy students",
     long_description=pre_install(),
-    requires=[]
+    requires=[],
+    author_email="moridh1355@gmail.com",
+    packages="morteza_pythonpackage",
+    
 )
